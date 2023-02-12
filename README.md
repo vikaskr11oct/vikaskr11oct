@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Vikas</h1>
+<h1 align="center">Hi , I'm Vikas Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate frontend developer from India , I bring</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaskr11oct&label=Profile%20views&color=0e75b6&style=flat" alt="vikaskr11oct" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikaskr11oct" alt="vikaskr11oct" /></a> </p>
 
-- 🔭 I’m currently working as **Full Stack Web Developer**
+
+
+
+ <img align="right" src="https://github.com/Vishal-Work/Vishal-Work/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
+
+
+### ABOUT ME
+- - 🔭 I’m currently working as **Full Stack Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/vikaskr11oct/overview](https://app.netlify.com/teams/vikaskr11oct/overview)
 
@@ -14,6 +21,11 @@
 - 📫 How to reach me **gucvikaskr.11@gmail.com**
 
 - ⚡ Fun fact **I'm guitarist with good physique and I'm a DJ**
+
+- 💬 Ask me about Deep Learning, Python, Machine Learning and Project Managment .
+
+
+ <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
