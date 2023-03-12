@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/vikaskr11oct/overview](https://app.netlify.com/teams/vikaskr11oct/overview)
 
-- 💬 Ask me about **C++,CCNA ,HTML ,CSS ,React ,Redux, Node.**
+- 💬 Ask me about **C++,CCNA ,HTML ,CSS ,React ,Redux, Node, Bug finder**
 
 - 📫 How to reach me **gucvikaskr.11@gmail.com**
 
